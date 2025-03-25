@@ -37,3 +37,9 @@ node_modules/
 
 # Docker
 docker-compose.override.yml
+
+# PyCharm project files
+.idea/
+
+# Visual Studio Code project files
+.vscode/
